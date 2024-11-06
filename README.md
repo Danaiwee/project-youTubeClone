@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A responsive video streaming website inspired by YouTube, featuring a user-friendly side menu bar for easy navigation. The menu includes shortcuts to various video categories like games, blogs, science, sports, and more, providing users with quick access to their preferred content. The menu also displays shortcuts for subscribed channels, allowing for personalized browsing. The website integrates Google API for seamless video content and enhances the overall user experience with smooth navigation and dynamic content updates.
